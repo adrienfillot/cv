@@ -1,0 +1,18 @@
+body{
+min-height: 100vh;
+background-image: url(sui.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+.lien_cours {
+    border: solid 5px blue;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.icon ol{
+    display: flex;
+    justify-content: space-between;
+}
+
